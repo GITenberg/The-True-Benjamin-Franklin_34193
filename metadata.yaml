@@ -1,0 +1,27 @@
+_repo: The-True-Benjamin-Franklin_34193
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34193-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fisher, Sydney George
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '1102'
+    url: http://www.gutenberg.org/2009/agents/1102
+description: ''
+gutenberg_issued: '2010-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34193'
+  lccn: '45053663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franklin, Benjamin, 1706-1790'
+- !lcc 'E300'
+title: The True Benjamin Franklin
+url: http://www.gutenberg.org/ebooks/34193
